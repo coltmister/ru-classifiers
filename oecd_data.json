@@ -1,0 +1,1154 @@
+[
+  {
+    "title": "Natural sciences",
+    "code": "01.00.00"
+  },
+  {
+    "title": "Mathematics",
+    "code": "01.01.00"
+  },
+  {
+    "title": "Mathematics, applied",
+    "code": "01.01.PN"
+  },
+  {
+    "title": "Mathematics, interdisciplinary applications",
+    "code": "01.01.PO"
+  },
+  {
+    "title": "Mathematics",
+    "code": "01.01.PQ"
+  },
+  {
+    "title": "Physics, mathematical",
+    "code": "01.01.UR"
+  },
+  {
+    "title": "Statistic & probability",
+    "code": "01.01.XY"
+  },
+  {
+    "title": "Computer and information sciences ",
+    "code": "01.02.00"
+  },
+  {
+    "title": "Computer sciences, artificial intelligence",
+    "code": "01.02.EP"
+  },
+  {
+    "title": "Computer sciences, cybernetics",
+    "code": "01.02.EP"
+  },
+  {
+    "title": "Computer sciences, information systems",
+    "code": "01.02.ET"
+  },
+  {
+    "title": "Computer sciences, interdisciplinary applications",
+    "code": "01.02.EV"
+  },
+  {
+    "title": "Computer sciences,software engineering",
+    "code": "01.02.EW"
+  },
+  {
+    "title": "Computer sciences, theory & methods",
+    "code": "01.02.EX"
+  },
+  {
+    "title": "Physical sciences and astronomy",
+    "code": "01.03.00"
+  },
+  {
+    "title": "Acoustics",
+    "code": "01.03.AA"
+  },
+  {
+    "title": "Astronomy & astrophysics",
+    "code": "01.03.BU"
+  },
+  {
+    "title": "Optics",
+    "code": "01.03.SY"
+  },
+  {
+    "title": "Physics, applied",
+    "code": "01.03.UB"
+  },
+  {
+    "title": "Physics, fluids & plasmas",
+    "code": "01.03.UF"
+  },
+  {
+    "title": "Physics, atomic, molecular & chemical",
+    "code": "01.03.UH"
+  },
+  {
+    "title": "Physics, multidisciplinary",
+    "code": "01.03.UI"
+  },
+  {
+    "title": "Physics, condensed matter",
+    "code": "01.03.UK"
+  },
+  {
+    "title": "Physics, nuclear",
+    "code": "01.03.UN"
+  },
+  {
+    "title": "Physics, particles & fields",
+    "code": "01.03.UP"
+  },
+  {
+    "title": "Chemical sciences ",
+    "code": "01.04.00"
+  },
+  {
+    "title": "Chemistry, applied",
+    "code": "01.04.DW"
+  },
+  {
+    "title": "Chemistry, multidisciplinary",
+    "code": "01.04.DY"
+  },
+  {
+    "title": "Chemistry, analytical",
+    "code": "01.04.EA"
+  },
+  {
+    "title": "Chemistry, inorganic & nuclear",
+    "code": "01.04.EC"
+  },
+  {
+    "title": "Chemistry, organic",
+    "code": "01.04.EE"
+  },
+  {
+    "title": "Chemistry, physical",
+    "code": "01.04.EI"
+  },
+  {
+    "title": "Crystallography",
+    "code": "01.04.FI"
+  },
+  {
+    "title": "Electrochemistry",
+    "code": "01.04.HQ"
+  },
+  {
+    "title": "Polymer science",
+    "code": "01.04.UY"
+  },
+  {
+    "title": "Earth and related environmental sciences ",
+    "code": "01.05.00"
+  },
+  {
+    "title": "Geochemistry & geophysics",
+    "code": "01.05.GC"
+  },
+  {
+    "title": "Environmental sciences",
+    "code": "01.05.JA"
+  },
+  {
+    "title": "Geography, physical",
+    "code": "01.05.KV"
+  },
+  {
+    "title": "Geology",
+    "code": "01.05.KY"
+  },
+  {
+    "title": "Geosciences, multidisciplinary",
+    "code": "01.05.LE"
+  },
+  {
+    "title": "Meteorology & atmospheric sciences",
+    "code": "01.05.QQ"
+  },
+  {
+    "title": "Mineralogy",
+    "code": "01.05.RE"
+  },
+  {
+    "title": "Oceanography",
+    "code": "01.05.SI"
+  },
+  {
+    "title": "Paleontology",
+    "code": "01.05.TE"
+  },
+  {
+    "title": "Water resources",
+    "code": "01.05.ZR"
+  },
+  {
+    "title": "Biological sciences",
+    "code": "01.06.00"
+  },
+  {
+    "title": "Biodiversity conservation",
+    "code": "01.06.BD"
+  },
+  {
+    "title": "Biochemical research methods",
+    "code": "01.06.CO"
+  },
+  {
+    "title": "Biochemistry & molecular biology",
+    "code": "01.06.CQ"
+  },
+  {
+    "title": "Biology",
+    "code": "01.06.CU"
+  },
+  {
+    "title": "Biophysics",
+    "code": "01.06.DA"
+  },
+  {
+    "title": "Plant sciences",
+    "code": "01.06.DE"
+  },
+  {
+    "title": "Cell biology",
+    "code": "01.06.DR"
+  },
+  {
+    "title": "Ecology",
+    "code": "01.06.GU"
+  },
+  {
+    "title": "Evolutionary biology",
+    "code": "01.06.HT"
+  },
+  {
+    "title": "Developmental biology",
+    "code": "01.06.HY"
+  },
+  {
+    "title": "Entomology",
+    "code": "01.06.IY"
+  },
+  {
+    "title": "Genetics & heredity",
+    "code": "01.06.KM"
+  },
+  {
+    "title": "Mathematical & computational biology",
+    "code": "01.06.MC"
+  },
+  {
+    "title": "Limnology",
+    "code": "01.06.OU"
+  },
+  {
+    "title": "Marine & freshwater biology",
+    "code": "01.06.PI"
+  },
+  {
+    "title": "Microbiology",
+    "code": "01.06.GU"
+  },
+  {
+    "title": "Mycology",
+    "code": "01.06.RQ"
+  },
+  {
+    "title": "Ornithology",
+    "code": "01.06.TA"
+  },
+  {
+    "title": "Reproductive biology",
+    "code": "01.06.WF"
+  },
+  {
+    "title": "Other natural sciences",
+    "code": "01.07.00"
+  },
+  {
+    "title": "Multidisciplinary sciences",
+    "code": "01.07.RO"
+  },
+  {
+    "title": "Engineering and technology",
+    "code": "02.00.00"
+  },
+  {
+    "title": "Civil engineering ",
+    "code": "02.01.00"
+  },
+  {
+    "title": "Construction & building technology",
+    "code": "02.01.FA"
+  },
+  {
+    "title": "Engineering, civil",
+    "code": "02.01.IM"
+  },
+  {
+    "title": "Transportation science & technology",
+    "code": "02.01.YR"
+  },
+  {
+    "title": "Electrical eng, electronic eng",
+    "code": "02.02.00"
+  },
+  {
+    "title": "Automation & control systems",
+    "code": "02.02.AC"
+  },
+  {
+    "title": "Computer science, hardware & architecture",
+    "code": "02.02.ES"
+  },
+  {
+    "title": "Communication",
+    "code": "02.02.EU"
+  },
+  {
+    "title": "Engineering, electrical & electronic",
+    "code": "02.02.IQ"
+  },
+  {
+    "title": "Robotics",
+    "code": "02.02.RB"
+  },
+  {
+    "title": "Telecommunications",
+    "code": "02.02.YE"
+  },
+  {
+    "title": "Mechanical engineering ",
+    "code": "02.03.00"
+  },
+  {
+    "title": "Engineering, aerospace",
+    "code": "02.03.AI"
+  },
+  {
+    "title": "Thermodynamics",
+    "code": "02.03.DT"
+  },
+  {
+    "title": "Engineering, mechanical",
+    "code": "02.03.IU"
+  },
+  {
+    "title": "Mechanics",
+    "code": "02.03.PU"
+  },
+  {
+    "title": "Nuclear science & technology",
+    "code": "02.03.RY"
+  },
+  {
+    "title": "Chemical engineering ",
+    "code": "02.04.00"
+  },
+  {
+    "title": "Engineering, chemical",
+    "code": "02.04.II"
+  },
+  {
+    "title": "Materials engineering ",
+    "code": "02.05.00"
+  },
+  {
+    "title": "Materials science, paper & wood",
+    "code": "02.05.PJ"
+  },
+  {
+    "title": "Materials science, ceramics",
+    "code": "02.05.PK"
+  },
+  {
+    "title": "Materials science, multidisciplinary",
+    "code": "02.05.PM"
+  },
+  {
+    "title": "Metallurgy & metallurgical engineering",
+    "code": "02.05.PZ"
+  },
+  {
+    "title": "Materials science, characterization & testing",
+    "code": "02.05.QF"
+  },
+  {
+    "title": "Materials science, coatings & films",
+    "code": "02.05.QG"
+  },
+  {
+    "title": "Materials science, composites",
+    "code": "02.05.QH"
+  },
+  {
+    "title": "Materials science, textiles",
+    "code": "02.05.QJ"
+  },
+  {
+    "title": "Medical engineering ",
+    "code": "02.06.00"
+  },
+  {
+    "title": "Cell & tissue engineering",
+    "code": "02.06.CT"
+  },
+  {
+    "title": "Engineering, biomedical",
+    "code": "02.06.IG"
+  },
+  {
+    "title": "Medical laboratory technology",
+    "code": "02.06.PW"
+  },
+  {
+    "title": "Environmental engineering ",
+    "code": "02.07.00"
+  },
+  {
+    "title": "Energy & fuels",
+    "code": "02.07.ID"
+  },
+  {
+    "title": "Engineering, environmental",
+    "code": "02.07.IH"
+  },
+  {
+    "title": "Engineering, marine",
+    "code": "02.07.IL"
+  },
+  {
+    "title": "Engineering, ocean",
+    "code": "02.07.IO"
+  },
+  {
+    "title": "Engineering, petroleum",
+    "code": "02.07.IP"
+  },
+  {
+    "title": "Engineering, geological",
+    "code": "02.07.IX"
+  },
+  {
+    "title": "Remote sensing",
+    "code": "02.07.SR"
+  },
+  {
+    "title": "Mining & mineral processing",
+    "code": "02.07.ZQ"
+  },
+  {
+    "title": "Environmental biotechnology ",
+    "code": "02.08.00"
+  },
+  {
+    "title": "Biotechnology & applied microbiology",
+    "code": "02.08.DB"
+  },
+  {
+    "title": "Industrial biotechnology ",
+    "code": "02.09.00"
+  },
+  {
+    "title": "Materials science, biomaterials",
+    "code": "02.09.QE"
+  },
+  {
+    "title": "Nano-technology ",
+    "code": "02.10.00"
+  },
+  {
+    "title": "Nanoscience & nanotechnology",
+    "code": "02.10.NS"
+  },
+  {
+    "title": "Other engineering and technologies ",
+    "code": "02.11.00"
+  },
+  {
+    "title": "Engineering, multidisciplinary",
+    "code": "02.11.IF"
+  },
+  {
+    "title": "Engineering, industrial",
+    "code": "02.11.IJ"
+  },
+  {
+    "title": "Engineering, manufacturing",
+    "code": "02.11.IK"
+  },
+  {
+    "title": "Food science & technology",
+    "code": "02.11.JY"
+  },
+  {
+    "title": "Instruments & instrumentation",
+    "code": "02.11.OA"
+  },
+  {
+    "title": "Microscopy",
+    "code": "02.11.RA"
+  },
+  {
+    "title": "Imaging science & photographic technology",
+    "code": "02.11.UE"
+  },
+  {
+    "title": "Spectroscopy",
+    "code": "02.11.XQ"
+  },
+  {
+    "title": "Medical and health sciences",
+    "code": "03.00.00"
+  },
+  {
+    "title": "Basic medical research",
+    "code": "03.01.00"
+  },
+  {
+    "title": "Anatomy & morphology",
+    "code": "03.01.AY"
+  },
+  {
+    "title": "Chemistry, medicinal",
+    "code": "03.01.DX"
+  },
+  {
+    "title": "Psychology, clinical",
+    "code": "03.01.EQ"
+  },
+  {
+    "title": "Immunology",
+    "code": "03.01.NI"
+  },
+  {
+    "title": "Medicine, research & experimental",
+    "code": "03.01.QA"
+  },
+  {
+    "title": "Neurosciences",
+    "code": "03.01.RU"
+  },
+  {
+    "title": "Pathology",
+    "code": "03.01.TM"
+  },
+  {
+    "title": "Pharmacology & pharmacy",
+    "code": "03.01.TU"
+  },
+  {
+    "title": "Physiology",
+    "code": "03.01.UM"
+  },
+  {
+    "title": "Toxicology",
+    "code": "03.01.YO"
+  },
+  {
+    "title": "Clinical medicine",
+    "code": "03.02.00"
+  },
+  {
+    "title": "Allergy",
+    "code": "03.02.AQ"
+  },
+  {
+    "title": "Andrology",
+    "code": "03.02.AZ"
+  },
+  {
+    "title": "Anesthesiology",
+    "code": "03.02.BA"
+  },
+  {
+    "title": "Oncology",
+    "code": "03.02.DM"
+  },
+  {
+    "title": "Cardiac & cardiovascular systems",
+    "code": "03.02.DQ"
+  },
+  {
+    "title": "Critical care medicine",
+    "code": "03.02.DS"
+  },
+  {
+    "title": "Emergency medicine",
+    "code": "03.02.FF"
+  },
+  {
+    "title": "Dentistry, oral surgery & medicine",
+    "code": "03.02.FY"
+  },
+  {
+    "title": "Dermatology",
+    "code": "03.02.GA"
+  },
+  {
+    "title": "Endocrinology & metabolism",
+    "code": "03.02.IA"
+  },
+  {
+    "title": "Gastroenterology & hepatology",
+    "code": "03.02.KI"
+  },
+  {
+    "title": "Geriatrics & gerontology",
+    "code": "03.02.LI"
+  },
+  {
+    "title": "Gerontology",
+    "code": "03.02.LJ"
+  },
+  {
+    "title": "Hematology",
+    "code": "03.02.MA"
+  },
+  {
+    "title": "Integrative & complementary medicine",
+    "code": "03.02.OI"
+  },
+  {
+    "title": "Medicine, general & internal",
+    "code": "03.02.PY"
+  },
+  {
+    "title": "Clinical neurology",
+    "code": "03.02.RT"
+  },
+  {
+    "title": "Neuroimaging",
+    "code": "03.02.RX"
+  },
+  {
+    "title": "Obstetrics & gynecology",
+    "code": "03.02.SD"
+  },
+  {
+    "title": "Ophthalmology",
+    "code": "03.02.SU"
+  },
+  {
+    "title": "Orthopedics",
+    "code": "03.02.TC"
+  },
+  {
+    "title": "Otorhinolaryngology",
+    "code": "03.02.TD"
+  },
+  {
+    "title": "Pediatrics",
+    "code": "03.02.TQ"
+  },
+  {
+    "title": "Psychiatry",
+    "code": "03.02.VE"
+  },
+  {
+    "title": "Radiology, nuclear medicine & medical imaging",
+    "code": "03.02.VY"
+  },
+  {
+    "title": "Respiratory system",
+    "code": "03.02.WE"
+  },
+  {
+    "title": "Rheumatology",
+    "code": "03.02.WH"
+  },
+  {
+    "title": "Surgery",
+    "code": "03.02.YA"
+  },
+  {
+    "title": "Transplantation",
+    "code": "03.02.YP"
+  },
+  {
+    "title": "Urology & nephrology",
+    "code": "03.02.ZA"
+  },
+  {
+    "title": "Peripheral vascular disease",
+    "code": "03.02.ZD"
+  },
+  {
+    "title": "Health sciences",
+    "code": "03.03.00"
+  },
+  {
+    "title": "Substance abuse",
+    "code": "03.03.GM"
+  },
+  {
+    "title": "Health care sciences & services",
+    "code": "03.03.HL"
+  },
+  {
+    "title": "Health policy & services",
+    "code": "03.03.LQ"
+  },
+  {
+    "title": "Primary health care",
+    "code": "03.03.ML"
+  },
+  {
+    "title": "Public, environmental & occupational health",
+    "code": "03.03.NE"
+  },
+  {
+    "title": "Infectious diseases",
+    "code": "03.03.NN"
+  },
+  {
+    "title": "Medical ethics",
+    "code": "03.03.OO"
+  },
+  {
+    "title": "Medicine, legal",
+    "code": "03.03.OP"
+  },
+  {
+    "title": "Medical informatics",
+    "code": "03.03.PT"
+  },
+  {
+    "title": "Nursing",
+    "code": "03.03.RZ"
+  },
+  {
+    "title": "Nutrition & dietetics",
+    "code": "03.03.SA"
+  },
+  {
+    "title": "Parasitology",
+    "code": "03.03.TI"
+  },
+  {
+    "title": "Psychology, psychoanalysis",
+    "code": "03.03.VP"
+  },
+  {
+    "title": "Rehabilitation",
+    "code": "03.03.WC"
+  },
+  {
+    "title": "Social sciences, biomedical",
+    "code": "03.03.WV"
+  },
+  {
+    "title": "Sport sciences",
+    "code": "03.03.XW"
+  },
+  {
+    "title": "Tropical medicine",
+    "code": "03.03.YU"
+  },
+  {
+    "title": "Agricultural sciences",
+    "code": "04.00.00"
+  },
+  {
+    "title": "Agriculture, forestry, fisheries",
+    "code": "04.01.00"
+  },
+  {
+    "title": "Agriculture, multidisciplinary",
+    "code": "04.01.AH"
+  },
+  {
+    "title": "Agronomy",
+    "code": "04.01.AM"
+  },
+  {
+    "title": "Fisheries",
+    "code": "04.01.JU"
+  },
+  {
+    "title": "Forestry",
+    "code": "04.01.KA"
+  },
+  {
+    "title": "Horticulture",
+    "code": "04.01.MU"
+  },
+  {
+    "title": "Soil science",
+    "code": "04.01.XE"
+  },
+  {
+    "title": "Animal and dairy science",
+    "code": "04.02.00"
+  },
+  {
+    "title": "Agriculture, dairy & animal science",
+    "code": "04.02.AD"
+  },
+  {
+    "title": "Veterinary science",
+    "code": "04.03.00"
+  },
+  {
+    "title": "Veterinary sciences",
+    "code": "04.03.ZC"
+  },
+  {
+    "title": "Other agricultural science",
+    "code": "04.04.00"
+  },
+  {
+    "title": "Social sciences",
+    "code": " 05.00.0"
+  },
+  {
+    "title": "Psychology",
+    "code": "05.01.00"
+  },
+  {
+    "title": "Psychology, biological",
+    "code": "05.01.BV"
+  },
+  {
+    "title": "Behavioral sciences",
+    "code": "05.01.CN"
+  },
+  {
+    "title": "Psychology, educational",
+    "code": "05.01.HI"
+  },
+  {
+    "title": "Ergonomics",
+    "code": "05.01.JI"
+  },
+  {
+    "title": "Psychology, developmental",
+    "code": "05.01.MY"
+  },
+  {
+    "title": "Psychology, applied",
+    "code": "05.01.NQ"
+  },
+  {
+    "title": "Psychology",
+    "code": "05.01.VI"
+  },
+  {
+    "title": "Psychology, multidisciplinary",
+    "code": "05.01.VJ"
+  },
+  {
+    "title": "Psychology, mathematical",
+    "code": "05.01.VS"
+  },
+  {
+    "title": "Psychology, experimental",
+    "code": "05.01.VX"
+  },
+  {
+    "title": "Psychology, social",
+    "code": "05.01.WQ"
+  },
+  {
+    "title": "Economics and business",
+    "code": "05.02.00"
+  },
+  {
+    "title": "Business",
+    "code": "05.02.DI"
+  },
+  {
+    "title": "Business, finance",
+    "code": "05.02.DK"
+  },
+  {
+    "title": "Economics",
+    "code": "05.02.GY"
+  },
+  {
+    "title": "Industrial relations & labor",
+    "code": "05.02.NM"
+  },
+  {
+    "title": "Management",
+    "code": "05.02.PC"
+  },
+  {
+    "title": "Operations research & management science",
+    "code": "05.02.PE"
+  },
+  {
+    "title": "Educational sciences",
+    "code": "05.03.00"
+  },
+  {
+    "title": "Education & educational research",
+    "code": "05.03.HA"
+  },
+  {
+    "title": "Education, scientific disciplines",
+    "code": "05.03.HB"
+  },
+  {
+    "title": "Education, special",
+    "code": "05.03.HE"
+  },
+  {
+    "title": "Sociology",
+    "code": "05.04.00"
+  },
+  {
+    "title": "Anthropology",
+    "code": "05.04.BF"
+  },
+  {
+    "title": "Demography",
+    "code": "05.04.FU"
+  },
+  {
+    "title": "Ethnic studies",
+    "code": "05.04.JM"
+  },
+  {
+    "title": "Family studies",
+    "code": "05.04.JO"
+  },
+  {
+    "title": "Social sciences, mathematical methods",
+    "code": "05.04.PS"
+  },
+  {
+    "title": "Social issues",
+    "code": "05.04.WM"
+  },
+  {
+    "title": "Social work",
+    "code": "05.04.WY"
+  },
+  {
+    "title": "Sociology",
+    "code": "05.04.XA"
+  },
+  {
+    "title": "Women's studies",
+    "code": "05.04.ZK"
+  },
+  {
+    "title": "Law",
+    "code": "05.05.00"
+  },
+  {
+    "title": "Criminology & penology",
+    "code": "05.05.FE"
+  },
+  {
+    "title": "Law",
+    "code": "05.05.OM"
+  },
+  {
+    "title": "Political science",
+    "code": "05.06.00"
+  },
+  {
+    "title": "International relations",
+    "code": "05.06.OE"
+  },
+  {
+    "title": "Political science",
+    "code": "05.06.UU"
+  },
+  {
+    "title": "Public administration",
+    "code": "05.06.VM"
+  },
+  {
+    "title": "Social and economic geography",
+    "code": "05.07.00"
+  },
+  {
+    "title": "Area studies",
+    "code": "05.07.BM"
+  },
+  {
+    "title": "Environmental studies",
+    "code": "05.07.JB"
+  },
+  {
+    "title": "Geography",
+    "code": "05.07.KU"
+  },
+  {
+    "title": "Planning & development",
+    "code": "05.07.UQ"
+  },
+  {
+    "title": "Transportation",
+    "code": "05.07.YQ"
+  },
+  {
+    "title": "Urban studies",
+    "code": "05.07.YY"
+  },
+  {
+    "title": "Media and communication",
+    "code": "05.08.00"
+  },
+  {
+    "title": "Information science & library science",
+    "code": "05.08.NU"
+  },
+  {
+    "title": "Other social sciences",
+    "code": "05.09.00"
+  },
+  {
+    "title": "Cultural studies",
+    "code": "05.09.EN"
+  },
+  {
+    "title": "Hospitality, leisure, sport & tourism",
+    "code": "05.09.MW"
+  },
+  {
+    "title": "Asian studies",
+    "code": "05.09.OR"
+  },
+  {
+    "title": "Social sciences, interdisciplinary",
+    "code": "05.09.WU"
+  },
+  {
+    "title": "Humanities ",
+    "code": "06.00.00"
+  },
+  {
+    "title": "History and archaeology",
+    "code": "06.01.00"
+  },
+  {
+    "title": "Archaeology",
+    "code": "06.01.BI"
+  },
+  {
+    "title": "History",
+    "code": "06.01.MM"
+  },
+  {
+    "title": "History & philosophy of science",
+    "code": "06.01.MQ"
+  },
+  {
+    "title": "History of social sciences",
+    "code": "06.01.MR"
+  },
+  {
+    "title": "Medieval & renaissance studies",
+    "code": "06.01.QK"
+  },
+  {
+    "title": "Languages and literature",
+    "code": "06.02.00"
+  },
+  {
+    "title": "Classics",
+    "code": "06.02.EO"
+  },
+  {
+    "title": "Folklore",
+    "code": "06.02.JW"
+  },
+  {
+    "title": "Linguistics",
+    "code": "06.02.OT"
+  },
+  {
+    "title": "Literary theory & criticism",
+    "code": "06.02.OX"
+  },
+  {
+    "title": "Language & linguistics",
+    "code": "06.02.OY"
+  },
+  {
+    "title": "Literary reviews",
+    "code": "06.02.OZ"
+  },
+  {
+    "title": "Literature",
+    "code": "06.02.PA"
+  },
+  {
+    "title": "Literature, african, australian, canadian",
+    "code": "06.02.PD"
+  },
+  {
+    "title": "Literature, american",
+    "code": "06.02.PF"
+  },
+  {
+    "title": "Literature, british isles",
+    "code": "06.02.PG"
+  },
+  {
+    "title": "Literature, german, dutch, scandinavian",
+    "code": "06.02.PH"
+  },
+  {
+    "title": "Literature, romance",
+    "code": "06.02.QC"
+  },
+  {
+    "title": "Literature, slavic",
+    "code": "06.02.QD"
+  },
+  {
+    "title": "Poetry",
+    "code": "06.02.UT"
+  },
+  {
+    "title": "Philosophy, ethics and religion",
+    "code": "06.03.00"
+  },
+  {
+    "title": "Ethics",
+    "code": "06.03.HF"
+  },
+  {
+    "title": "Philosophy",
+    "code": "06.03.UA"
+  },
+  {
+    "title": "Religion",
+    "code": "06.03.YI"
+  },
+  {
+    "title": "Art",
+    "code": "06.04.00"
+  },
+  {
+    "title": "Architecture",
+    "code": "06.04.BK"
+  },
+  {
+    "title": "Art",
+    "code": "06.04.BP"
+  },
+  {
+    "title": "Dance",
+    "code": "06.04.FS"
+  },
+  {
+    "title": "Film, radio, television",
+    "code": "06.04.JS"
+  },
+  {
+    "title": "Music",
+    "code": "06.04.RP"
+  },
+  {
+    "title": "Theater",
+    "code": "06.04.YG"
+  }
+]
